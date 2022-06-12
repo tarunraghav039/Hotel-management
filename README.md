@@ -1,6 +1,6 @@
 # Hotel-management
 Checkinn.Py-
-* In checkin they user will enter their details and checkin time ext
+* In checkin the user will enter their details and checkin time ext
 * that will store in "hotel.sql" database
 
 Main.py:-
